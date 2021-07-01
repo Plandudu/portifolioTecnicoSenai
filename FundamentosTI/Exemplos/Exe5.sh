@@ -5,5 +5,5 @@ read n
 while [[ $n -gt 0 ]];
 do
 	echo ""$n""
-	num_max=$(($num_max - 1))
+	n=$(($n - 1))
 done
