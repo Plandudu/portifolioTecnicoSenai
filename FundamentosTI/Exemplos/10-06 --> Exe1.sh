@@ -1,4 +1,4 @@
-# autor: Ademar Neto.
+# autor: Felipe Apio.
 # descrição: Neste exercício nós deviamos criar um vetor com 3 nomes de pessoas de nossa escolha, e fazer um loop utilizando o "for".
 #!/bin/bash
 nomes=("Maria" "Marcos" "Jose")
