@@ -1,5 +1,6 @@
 # autor: Felipe Apio.
-# descricão: Devíamos criar um código que pedisse para o usuário nomes de pessoas utilziando o loop, e apenas parar de pedir os nomes quando a pessoa digitar um código de parada estipulado pela gente, e o código também deveria colocar os nomes da pessoas em um vetor e dizer a quantidade de pessoas que foram digitadas.
+# descricão: Pedir para o usuário nomes de pessoas utilizando loop. Apenas parar de pedir a próxima pessoa quando o usuário digitar um “código de parada” da sua escolha. 
+#Colocar esses nomes de pessoas em um vetor e ao final dizer a quantidade de pessoas digitadas.
 #!/bin/bash
 Cod_Parada="exit"
 nome=""
