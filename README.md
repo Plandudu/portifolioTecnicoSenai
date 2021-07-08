@@ -7,8 +7,11 @@
 ----------------------------------------
 **EXPERIÊNCIA** 
 >Revenda de produtos  na internet
+>
 >Criação de site ecommerce 
+>
 >Wordpress
+>
 >Estratégias de marketing online
 ----------------------------------------
 **QUALIFICAÇÕES E ATIVIDADES PROFISSIONAIS**
