@@ -13,11 +13,19 @@
 ----------------------------------------
 **QUALIFICAÇÕES E ATIVIDADES PROFISSIONAIS**
 >Java - intermediario
+>
 >Shell Script - intermediario
+>
 >Comandos Linux - intermediario
+>
 >Lógica de programação - avançado
+>
 >Google ads - intermediário
+>
 >Wordpress - intermediário
+>
 >Game maker studio 2 - GML - intermediário
+>
 >Design gráfico Gimp, Inkscape - intermediário
+>
 >Pacote Office - intermediário
