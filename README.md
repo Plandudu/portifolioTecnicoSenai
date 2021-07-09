@@ -18,23 +18,19 @@
 ----------------------------------------
 **QUALIFICAÇÕES E ATIVIDADES PROFISSIONAIS**
 
-* Java - intermediario
+QUALIFICAÇÕES | NIVEL DE QUALIFICAÇÕES
+---|---
+Java | intermediario
+Shell Script | intermediario
+Comandos Linux | intermediario
+Logica de Programação | avançado 
+Google Ads | intermediario
+Wordpress | intermediario
+Game Maker Studio 2 - GML | intermediario
+Design gráfico Gimp, Inkscape | intermediario
+Pacote Office | intermediario
 
-* Shell Script - intermediario
 
-* Comandos Linux - intermediario
-
-* Lógica de programação - avançado
-
-* Google ads - intermediário
-
-* Wordpress - intermediário
-
-* Game maker studio 2 - GML - intermediário
-
-* Design gráfico Gimp, Inkscape - intermediário
-
-* Pacote Office - intermediário
 ----------------------------------------
 **REPOSITÓRIOS**
 
