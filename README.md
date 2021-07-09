@@ -35,3 +35,11 @@
 * Design gráfico Gimp, Inkscape - intermediário
 
 * Pacote Office - intermediário
+----------------------------------------
+**REPOSITÓRIOS**
+
+* [Shell Script](https://github.com/felipe-apio-Souza/portifoliotecnico/blob/main/FundamentosTI/Exemplos/10_06_exe3.sh)
+
+* [Shell Script](https://github.com/felipe-apio-Souza/portifoliotecnico/blob/main/FundamentosTI/Exemplos/Exe7.sh)
+
+* [Shell Script](https://github.com/felipe-apio-Souza/portifoliotecnico/blob/main/FundamentosTI/Exemplos/Exe6.sh)
