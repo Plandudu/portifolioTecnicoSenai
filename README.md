@@ -3,8 +3,7 @@
 ----------------------------------------
 **FORMAÇÃO**
 
->Ensino Médio Técnico Desenvolvimento de Sistemas - Cursando - Turno matutino.
->Previsão de Conclusão: Nov/2022.
+* Ensino Médio Técnico Desenvolvimento de Sistemas - Cursando - Turno matutino. Previsão de Conclusão: Nov/2022.
 ----------------------------------------
 **EXPERIÊNCIA**
 
