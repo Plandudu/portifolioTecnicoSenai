@@ -38,3 +38,7 @@ Pacote Office | intermediario
 * [Shell Script](https://github.com/felipe-apio-Souza/portifoliotecnico/blob/main/FundamentosTI/Exemplos/Exe7.sh)
 
 * [Shell Script](https://github.com/felipe-apio-Souza/portifoliotecnico/blob/main/FundamentosTI/Exemplos/Exe6.sh)
+
+* [Shell Script](https://github.com/felipe-apio-Souza/portifoliotecnico/blob/main/FundamentosTI/Exemplos/ex1_16_07.sh)
+
+* [Shell Script] (https://github.com/felipe-apio-Souza/portifoliotecnico/blob/main/FundamentosTI/Exemplos/permissionamento.sh)
