@@ -1,3 +1,4 @@
+```
 //entrada, saida e processamento de dados usando JOptionPane
 package application;
 import javax.swing.JOptionPane;
@@ -12,3 +13,4 @@ public class Program {
 		JOptionPane.showMessageDialog(null, nome + " sua idade é: " + idade);
 	}
 }
+```
