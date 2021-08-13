@@ -1,3 +1,5 @@
+#!/bin/bash
+
 temp=$(ls -ld $1)
 
 dir_or_arq=${temp:0:1}
