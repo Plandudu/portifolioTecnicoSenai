@@ -44,3 +44,9 @@ Pacote Office | intermediario
 * [Shell Script](https://github.com/felipe-apio-Souza/portifoliotecnico/blob/main/FundamentosTI/Exemplos/permissionamento.sh)
 
 * [Java](https://github.com/felipe-apio-Souza/portifoliotecnico/blob/main/LogicaComputacional/exemplo/exercicio.java)
+
+* [Java](https://github.com/felipe-apio-Souza/portifoliotecnico/blob/main/LogicaComputacional/exemplo/Exemp2.java)
+
+* [Java](https://github.com/felipe-apio-Souza/portifoliotecnico/blob/main/LogicaComputacional/exemplo/Exemp3.java)
+
+* [Java](https://github.com/felipe-apio-Souza/portifoliotecnico/blob/main/LogicaComputacional/exemplo/Exemp4.java)
