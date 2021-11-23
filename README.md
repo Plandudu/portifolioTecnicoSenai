@@ -50,3 +50,5 @@ Pacote Office | intermediario
 * [Java](https://github.com/felipe-apio-Souza/portifoliotecnico/blob/main/LogicaComputacional/exemplo/Exemp3.java)
 
 * [Java](https://github.com/felipe-apio-Souza/portifoliotecnico/blob/main/LogicaComputacional/exemplo/Exemp4.java)
+
+* [Java](https://github.com/felipe-apio-Souza/portifoliotecnico/tree/main/LogicaComputacional/exemplo/Petshop)
