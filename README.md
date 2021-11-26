@@ -1,10 +1,7 @@
-## Welcome! I'm Felipe!            
+## Welcome!
 
-- 💻 I'm Back-End Developer!
-- 🏡 Santa Catarina - Brazil.
-- 📚 Learning Java.
-- 📤 2021 Goals: Find a new job.
 ----------------------------------------
+
 **REPOSITÓRIOS**
 
 * [Shell Script](https://github.com/felipe-apio-Souza/portifoliotecnico/blob/main/FundamentosTI/Exemplos/10_06_exe3.sh)
