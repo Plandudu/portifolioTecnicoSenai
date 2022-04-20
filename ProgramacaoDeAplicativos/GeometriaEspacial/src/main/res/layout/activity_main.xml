@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/fundo"
+    tools:context=".MainActivity">
+
+    <TextView
+        android:id="@+id/titulo"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="144dp"
+        android:layout_marginEnd="144dp"
+        android:fontFamily="sans-serif-black"
+        android:text="Geometria Espacial"
+        android:textSize="24sp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.0" />
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="135dp"
+        android:layout_marginTop="20dp"
+        android:layout_marginEnd="136dp"
+        android:text="O que deseja calcular?"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/titulo"
+        app:layout_constraintVertical_bias="0.0" />
+
+    <RadioGroup
+        android:id="@+id/radioGroup"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="106dp"
+        android:layout_marginTop="20dp"
+        android:layout_marginEnd="97dp"
+        android:onClick="click"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textView2"
+        app:layout_constraintVertical_bias="0.0">
+
+        <RadioButton
+            android:id="@+id/bt_areaTotal"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Area Total" />
+
+        <RadioButton
+            android:id="@+id/bt_areaBase"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Área da Base (pela Área Total)" />
+
+        <RadioButton
+            android:id="@+id/bt_areaVolume"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Área da Base (pelo Volume)" />
+
+        <RadioButton
+            android:id="@+id/bt_numLado"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Número de Lados" />
+
+        <RadioButton
+            android:id="@+id/bt_areaFace"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Área da Face" />
+
+        <RadioButton
+            android:id="@+id/bt_volume"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Volume" />
+
+        <RadioButton
+            android:id="@+id/bt_altura"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Altura" />
+    </RadioGroup>
+
+    <Button
+        android:id="@+id/bt_avancar"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="159dp"
+        android:layout_marginTop="5dp"
+        android:layout_marginEnd="147dp"
+        android:backgroundTint="#B31D1D"
+        android:onClick="click"
+        android:text="Avançar"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/radioGroup"
+        app:layout_constraintVertical_bias="0.0" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>
