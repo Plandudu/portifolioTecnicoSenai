@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "683994215394",
+    "project_id": "testevocacional-947cb",
+    "storage_bucket": "testevocacional-947cb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:683994215394:android:435a3143ebf2dffcb8ffbb",
+        "android_client_info": {
+          "package_name": "com.example.testevocacional"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "683994215394-2q8gta8a0hduor1nndu7d3rda90hofch.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmY4DN-v_irGOjVU5R58Izz_Yu9K2ks4I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "683994215394-2q8gta8a0hduor1nndu7d3rda90hofch.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

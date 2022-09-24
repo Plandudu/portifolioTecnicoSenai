@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#217ABA"
+    tools:context=".view.Quiz1">
+
+    <ScrollView
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        android:layout_marginStart="1dp"
+        android:layout_marginTop="1dp"
+        android:layout_marginEnd="1dp"
+        android:layout_marginBottom="1dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        tools:ignore="SpeakableTextPresentCheck">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <TextView
+                android:id="@+id/textView4"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="20dp"
+                android:text="Teste Vocacional"
+                android:textAlignment="center"
+                android:textColor="#FFFFFF"
+                android:textSize="20sp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/textView5"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="20dp"
+                android:text="Sobre a minha profissão..."
+                android:textAlignment="center"
+                android:textColor="#FFFFFF"
+                android:textSize="16sp" />
+
+            <Button
+                android:id="@+id/a_bt"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="20dp"
+                android:backgroundTint="#217ABA"
+                android:onClick="letra_a"
+                android:text="A: Quero ser uma referência! Quero dominar o tema!"
+                android:textAlignment="textStart"
+                app:strokeColor="#FFFFFF"
+                app:strokeWidth="2dp" />
+
+            <Button
+                android:id="@+id/b_bt"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="20dp"
+                android:backgroundTint="#217ABA"
+                android:onClick="letra_b"
+                android:text="B: Quero algo bem prático e que lide com  pessoas. Gosto de lidar com problemas do dia a dia."
+                android:textAlignment="textStart"
+                app:strokeColor="#FFFFFF"
+                app:strokeWidth="2dp" />
+
+            <Button
+                android:id="@+id/c_bt"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="20dp"
+                android:backgroundTint="#217ABA"
+                android:onClick="letra_c"
+                android:text="C: Espero que seja bem desafiadora (como nos filmes!). Se tiver decisões importantes,  melhor ainda. Ah, um salário alto vai muito bem."
+                android:textAlignment="textStart"
+                app:strokeColor="#FFFFFF"
+                app:strokeWidth="2dp" />
+
+            <Button
+                android:id="@+id/d_bt"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="20dp"
+                android:backgroundTint="#217ABA"
+                android:onClick="letra_d"
+                android:text="D: Quero trabalhar com tecnologia e várias  informações. Se for possível ter métodos  claros para fazer minhas tarefas, melhor ainda."
+                android:textAlignment="textStart"
+                app:strokeColor="#FFFFFF"
+                app:strokeWidth="2dp" />
+
+            <Button
+                android:id="@+id/e_bt"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="20dp"
+                android:backgroundTint="#217ABA"
+                android:onClick="letra_e"
+                android:text="E: Precisa ter um propósito. Quero ajudar pessoas e fazer o mundo um lugar melhor."
+                android:textAlignment="textStart"
+                app:strokeColor="#FFFFFF"
+                app:strokeWidth="2dp" />
+
+        </LinearLayout>
+    </ScrollView>
+
+</androidx.constraintlayout.widget.ConstraintLayout>

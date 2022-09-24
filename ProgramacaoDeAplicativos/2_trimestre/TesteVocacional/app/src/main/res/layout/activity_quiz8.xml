@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#217ABA"
+    tools:context=".view.Quiz1">
+
+    <ScrollView
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        android:layout_marginStart="1dp"
+        android:layout_marginTop="1dp"
+        android:layout_marginEnd="1dp"
+        android:layout_marginBottom="1dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        tools:ignore="SpeakableTextPresentCheck">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <TextView
+                android:id="@+id/textView4"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="20dp"
+                android:text="Teste Vocacional"
+                android:textAlignment="center"
+                android:textColor="#FFFFFF"
+                android:textSize="20sp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/textView5"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="20dp"
+                android:text="Quando me falam que ter um diploma é importante... "
+                android:textAlignment="center"
+                android:textColor="#FFFFFF"
+                android:textSize="16sp" />
+
+            <Button
+                android:id="@+id/a_bt"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="20dp"
+                android:backgroundTint="#217ABA"
+                android:onClick="letra_a"
+                android:text="A: Concordo. Dados mostram que pessoas  com ensino superior ganham mais."
+                android:textAlignment="textStart"
+                app:strokeColor="#FFFFFF"
+                app:strokeWidth="2dp" />
+
+            <Button
+                android:id="@+id/b_bt"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="20dp"
+                android:backgroundTint="#217ABA"
+                android:onClick="letra_b"
+                android:text="B: Concordo. Um diploma abre um leque muito maior de opções no mercado. É um item  indispensável no médio e longo prazo."
+                android:textAlignment="textStart"
+                app:strokeColor="#FFFFFF"
+                app:strokeWidth="2dp" />
+
+            <Button
+                android:id="@+id/c_bt"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="20dp"
+                android:backgroundTint="#217ABA"
+                android:onClick="letra_c"
+                android:text="C: Tendo a concordar, mas não é obrigatório.  O importante é entender os objetivos de  uma pessoa e depois ver como isso se encaixa nessa meta."
+                android:textAlignment="textStart"
+                app:strokeColor="#FFFFFF"
+                app:strokeWidth="2dp" />
+
+            <Button
+                android:id="@+id/d_bt"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="20dp"
+                android:backgroundTint="#217ABA"
+                android:onClick="letra_d"
+                android:text="D: Concordo. É importante ir absorvendo novos conhecimentos e depois ter uma  formalização disso. Mostra que você  batalhou e se preparou."
+                android:textAlignment="textStart"
+                app:strokeColor="#FFFFFF"
+                app:strokeWidth="2dp" />
+
+            <Button
+                android:id="@+id/e_bt"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="20dp"
+                android:backgroundTint="#217ABA"
+                android:onClick="letra_e"
+                android:text="E: Discordo. O importante é o conhecimento.  Infelizmente, para algumas carreiras ainda é obrigatório. Mas é legal ter um, sim."
+                android:textAlignment="textStart"
+                app:strokeColor="#FFFFFF"
+                app:strokeWidth="2dp" />
+
+        </LinearLayout>
+    </ScrollView>
+
+</androidx.constraintlayout.widget.ConstraintLayout>
